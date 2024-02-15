@@ -335,6 +335,7 @@ List<SubCategoryModel> Textiles_and_Fabrics = [
   SubCategoryModel("Cotton_Fabric", "Fabric made from cotton fibers"),
   SubCategoryModel("Silk_Fabric", "Luxurious fabric produced by silkworms"),
   SubCategoryModel("Polyester_Fabric", "Synthetic fabric made from polyester fibers"),
-  SubCategoryModel("Wool_Fabric", "Fabric made from the fleece of sheep or goats")
+  SubCategoryModel("Wool_Fabric", "Fabric made from the fleece of sheep or goats"),
+  SubCategoryModel("Wool_Fabric", "Fabric made from the fleece of sheep or goats"),
 ];
 
